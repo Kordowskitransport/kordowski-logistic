@@ -160,4 +160,6 @@ nav a:hover{
     font-size:18px;
     line-height:1.8;
     margin-bottom:20px;
+}html {
+    scroll-behavior: smooth;
 }
